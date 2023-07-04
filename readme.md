@@ -305,8 +305,7 @@ This page has been updated a lot in the past 2 years. It might be helpful to loo
 
 - [site.web.api.espn.com/apis/common/v3/search](https://site.web.api.espn.com/apis/common/v3/search)
 
----
-
+<!-- references -->
 [current_Athletes]: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes?limit=1000&active=true
 [current_Teams]: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/teams?limit=32
 [current_Positions]: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/positions?limit=75
